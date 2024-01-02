@@ -6,9 +6,13 @@ h1{
 }
 #Muhammad-Ahmad{
     color: darkblue;
-    background-color: blue;
+    background-color:gray;
 }
 #Ali-Azeem{
     color: darkred;
-    background-color: red;
+    background-color: pink;
+}
+#My{
+    color: rgb(95, 22, 156);
+    background-color: rgb(0, 255, 68);
 }
